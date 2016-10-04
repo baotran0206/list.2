@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tinhkhoangcach", "tinhkhoangcach\tinhkhoangcach.csproj", "{22A0C10C-D976-48AF-AEF9-B3F66F2BE449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cach2", "cach2\cach2.csproj", "{60A4CCE9-E72D-4B83-A816-1F6CCD13A2BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knapsack", "knapsack\knapsack.csproj", "{B537B57A-ECAD-49F8-8E0D-2B752B5A2958}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{22A0C10C-D976-48AF-AEF9-B3F66F2BE449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A0C10C-D976-48AF-AEF9-B3F66F2BE449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A0C10C-D976-48AF-AEF9-B3F66F2BE449}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60A4CCE9-E72D-4B83-A816-1F6CCD13A2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60A4CCE9-E72D-4B83-A816-1F6CCD13A2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60A4CCE9-E72D-4B83-A816-1F6CCD13A2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60A4CCE9-E72D-4B83-A816-1F6CCD13A2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B537B57A-ECAD-49F8-8E0D-2B752B5A2958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B537B57A-ECAD-49F8-8E0D-2B752B5A2958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B537B57A-ECAD-49F8-8E0D-2B752B5A2958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B537B57A-ECAD-49F8-8E0D-2B752B5A2958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
